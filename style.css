@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 0, 0, 0.547);
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.su-sriftu {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.paieskos-ikona {
+    border: 2px ridge blue;
+    font-size: 46px;
+    color: rgb(255, 0, 0);
+    opacity: 0.4;
+}
